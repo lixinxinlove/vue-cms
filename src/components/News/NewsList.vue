@@ -31,7 +31,7 @@ export default {
                 {
                 "_id": "5ccdbc219d212239df927a93",
                 "createdAt": "2019-05-04T16:21:53.523Z",
-                "desc": "2019-05-05",
+                "desc": "0",
                 "publishedAt": "2019-05-04T16:21:59.733Z",
                 "source": "web",
                 "type": "福利",
@@ -42,7 +42,7 @@ export default {
                 {
                 "_id": "5cc43919fc3326376038d233",
                 "createdAt": "2019-04-27T19:12:25.536Z",
-                "desc": "2019-04-27",
+                "desc": "2",
                 "publishedAt": "2019-04-27T19:12:51.865Z",
                 "source": "web",
                 "type": "福利",
@@ -53,7 +53,7 @@ export default {
                 {
                 "_id": "5c6a4ae99d212226776d3256",
                 "createdAt": "2019-02-18T06:04:25.571Z",
-                "desc": "2019-02-18",
+                "desc": "20",
                 "publishedAt": "2019-04-10T00:00:00.0Z",
                 "source": "web",
                 "type": "福利",
@@ -64,7 +64,7 @@ export default {
                 {
                 "_id": "5c2dabdb9d21226e068debf9",
                 "createdAt": "2019-01-03T06:29:47.895Z",
-                "desc": "2019-01-03",
+                "desc": "3",
                 "publishedAt": "2019-01-03T00:00:00.0Z",
                 "source": "web",
                 "type": "福利",
@@ -75,7 +75,7 @@ export default {
                 {
                 "_id": "5c25db189d21221e8ada8664",
                 "createdAt": "2018-12-28T08:13:12.688Z",
-                "desc": "2018-12-28",
+                "desc": "8",
                 "publishedAt": "2018-12-28T00:00:00.0Z",
                 "source": "web",
                 "type": "福利",
@@ -86,7 +86,7 @@ export default {
                 {
                 "_id": "5c12216d9d21223f5a2baea2",
                 "createdAt": "2018-12-13T09:07:57.2Z",
-                "desc": "2018-12-13",
+                "desc": "3",
                 "publishedAt": "2018-12-13T00:00:00.0Z",
                 "source": "web",
                 "type": "福利",
@@ -97,7 +97,7 @@ export default {
                 {
                 "_id": "5bfe1a5b9d2122309624cbb7",
                 "createdAt": "2018-11-28T04:32:27.338Z",
-                "desc": "2018-11-28",
+                "desc": "8",
                 "publishedAt": "2018-11-28T00:00:00.0Z",
                 "source": "web",
                 "type": "福利",
@@ -108,7 +108,7 @@ export default {
                 {
                 "_id": "5bf22fd69d21223ddba8ca25",
                 "createdAt": "2018-11-19T03:36:54.950Z",
-                "desc": "2018-11-19",
+                "desc": "19",
                 "publishedAt": "2018-11-19T00:00:00.0Z",
                 "source": "web",
                 "type": "福利",
@@ -119,7 +119,7 @@ export default {
                 {
                 "_id": "5be14edb9d21223dd50660f8",
                 "createdAt": "2018-11-06T08:20:43.656Z",
-                "desc": "2018-11-06",
+                "desc": "6",
                 "publishedAt": "2018-11-06T00:00:00.0Z",
                 "source": "web",
                 "type": "福利",
@@ -130,7 +130,7 @@ export default {
                 {
                 "_id": "5bcd71979d21220315c663fc",
                 "createdAt": "2018-10-22T06:43:35.440Z",
-                "desc": "2018-10-22",
+                "desc": "22",
                 "publishedAt": "2018-10-22T00:00:00.0Z",
                 "source": "web",
                 "type": "福利",
@@ -188,10 +188,10 @@ export default {
 }
 
 .demo hr{
-    margin-top: 5px;
+    margin:5px 5px;
     width: 100%;
     height: 1px;
-    color: #333;
+    color: #999;
 }
 
 .demo ul li{
