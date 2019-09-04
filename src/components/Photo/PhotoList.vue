@@ -98,8 +98,6 @@ export default {
   padding-left: 0px;
   margin: 5;
 }
-
-
 .photo-list li {
   list-style: none;
   position: relative;
